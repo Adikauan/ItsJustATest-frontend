@@ -1,0 +1,29 @@
+.card_container-1 {
+    width: '100%';
+    height: 90px;
+    min-height: 200px;
+    overflow: 'auto';
+    background-color: 'red';
+}
+
+.card_header {
+    height: 30;
+}
+
+.avatar {
+    width: 30;
+    height: 30;
+}
+
+.card_content {
+    height: 50;
+}
+
+.card_actions {
+    height: 10;
+    border-top: '1px solid';
+}
+
+.to-do {
+    background-color: 'red';
+}
